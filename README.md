@@ -1,5 +1,11 @@
 <h1>
-  <img width="188" height="183" alt="image" src="https://github.com/user-attachments/assets/2269ce49-dd5a-41c3-85aa-267464bfd25d" align="right" />
+  <img
+    width="188"
+    height="183"
+    alt="image"
+    src="https://github.com/user-attachments/assets/ced2a658-8f73-407f-85b1-f2a14ff870df"
+    align="right"
+  />
   ⭐ Hi, I'm Mohamed Fares
 </h1>
 

@@ -3,7 +3,7 @@
     width="188"
     height="183"
     alt="image"
-    src="https://github.com/user-attachments/assets/ced2a658-8f73-407f-85b1-f2a14ff870df"
+    src="https://github.com/user-attachments/assets/88a59e4b-074d-4268-8134-efa09b4e5397"
     align="right"
   />
   ⭐ Hi, I'm Mohamed Fares

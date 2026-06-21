@@ -3,7 +3,7 @@
     width="188"
     height="183"
     alt="Profile image"
-    src="https://github.com/user-attachments/assets/88a59e4b-074d-4268-8134-efa09b4e5397"
+    src="https://github.com/user-attachments/assets/049f7c8a-1581-41e3-95d8-862639278c46"
     align="right"
   />
   ⭐ Hi, I'm Mohamed Fares
@@ -11,11 +11,6 @@
 
 <p><strong>Student | FTC Robotics | Cybersecurity</strong></p>
 <p><em>Currently competing in FTC robotics and exploring the world of cybersecurity.</em></p>
-
-<p><strong>Student | FTC Robotics | Cybersecurity</strong></p>
-
-<p><em>Currently competing in FTC robotics and exploring the world of cybersecurity.</em></p>
-
 <hr>
 
 <h3>⚡ Skills & Technologies</h3>

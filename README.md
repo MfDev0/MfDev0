@@ -2,12 +2,15 @@
   <img
     width="188"
     height="183"
-    alt="image"
+    alt="Profile image"
     src="https://github.com/user-attachments/assets/88a59e4b-074d-4268-8134-efa09b4e5397"
     align="right"
   />
   ⭐ Hi, I'm Mohamed Fares
 </h1>
+
+<p><strong>Student | FTC Robotics | Cybersecurity</strong></p>
+<p><em>Currently competing in FTC robotics and exploring the world of cybersecurity.</em></p>
 
 <p><strong>Student | FTC Robotics | Cybersecurity</strong></p>
 

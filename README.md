@@ -6,7 +6,7 @@
     src="https://github.com/user-attachments/assets/049f7c8a-1581-41e3-95d8-862639278c46"
     align="right"
   />
-  ⭐ Hi, I'm Mohamed 
+  ⭐ Hi, I'm Mr Fuzzy Pants 
 </h1>
 
 <p><strong>Student | FTC Robotics | Cybersecurity</strong></p>
